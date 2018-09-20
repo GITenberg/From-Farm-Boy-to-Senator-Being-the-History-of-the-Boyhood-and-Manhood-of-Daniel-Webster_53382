@@ -1,0 +1,35 @@
+_repo: From-Farm-Boy-to-Senator-Being-the-History-of-the-Boyhood-and-Manhood-of-Daniel-Webster_53382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    - Jr., Horatio Alger
+    - Alger, Horatio
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2016-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53382'
+  lccn: '14000759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legislators -- United States -- Biography -- Juvenile literature'
+- !lcc 'E300'
+- !lcsh 'Webster, Daniel, 1782-1852 -- Juvenile literature'
+- GITenberg
+title: "From Farm Boy to Senator\r\nBeing the History of the Boyhood and Manhood of\
+  \ Daniel Webster"
+url: http://www.gutenberg.org/ebooks/53382
